@@ -54,5 +54,15 @@ Roblox.LangDynamic["Feature.BuyRobux"] = {
     "Label.MyFriendsWithCount": "My friends ({count})",
     "EmptyState.NoFriends": "No friends",
     "Heading.LimitedTimeBonus": "Limited-time avatar items",
+    "Label.PeopleWithCount": "People ({count})",
+    "Label.Search": "Search",
+    "Label.Loading": "Loading",
+    "Heading.MoreRobuxComputerWebGiftcardsWithStrikethrough": "Enjoy up to {divTagStart}{strikethroughPercentage}%{divTagEnd} {percentage}% bonus Robux",
+    "Heading.LimitedTimeBonusRobux": "Limited-time bonus Robux",
+    "Description.OneTimeBonusIncludedInThePackage": "One-time bonus included in the package",
+    "Label.PendingRequestsSummary.Plural": "{count} pending requests",
+    "Label.PendingRequestsSummary.Singular": "{count} pending request",
+    "Heading.ReviewPendingRequests": "Review pending requests",
+    "Heading.GetUpTo50PercentMoreRobux": "Get up to 50% more Robux",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.BuyRobux");

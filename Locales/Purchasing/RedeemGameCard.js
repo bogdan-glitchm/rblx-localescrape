@@ -107,7 +107,7 @@ Roblox.LangDynamic["Purchasing.RedeemGameCard"] = {
     "Heading.LocalCreditPreLaunchWarning": "In April 2023 the Roblox credit in your account will be automatically converted to your local currency.",
     "Action.BuyRobux": "Buy Robux",
     "Action.GetRobux": "Get Robux",
-    "Message.LargeCreditBalanceTooltip": "Your Roblox Credit balance is large\nenough to purchase Robux Packages\nor subscribe to Premium directly. ",
+    "Message.LargeCreditBalanceTooltip": "Your Roblox Credit balance is large\nenough to purchase Robux Packages\nor subscribe to Plus directly.",
     "Heading.BuyRobuxWithCredit": "Buy robux with credit",
     "Message.Step1LargestPackageYouCanBuy": "Largest package you can buy with your credit:",
     "Message.Step2NextLargestPackage": "Your purchase was successful! \nNext largest package available with your credit",
@@ -191,5 +191,8 @@ Roblox.LangDynamic["Purchasing.RedeemGameCard"] = {
     "Action.ScanGiftCard.TryScanToRedeem": "Try scan to redeem",
     "Label.ScanGiftCard.ScanYourCode": "Scan your code",
     "Message.UseBalanceToSubscribeToPlus": "Use your available balance to subscribe to Plus. Choose a longer plan to save more.",
+    "Heading.FreeItemReceived": "Free item received",
+    "Description.FreeItemReceived": "Your code has been successfully redeemed and you've received a free item.",
+    "Action.Equip": "Equip",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Purchasing.RedeemGameCard");

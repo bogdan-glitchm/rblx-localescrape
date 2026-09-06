@@ -29,8 +29,8 @@ Roblox.LangDynamic["Feature.LegallySensitiveContent"] = {
     "Description.LSC.TurnOnEmail": "Turn on email notifications",
     "Title.FriendsChatTextChat": "Text chat",
     "Description.PartyVoiceChat_V2": "Talk to your friends when you’re in the same Party",
-    "Heading.ChatAndPartyWithFriends": "Chat and Party with friends",
-    "Description.ManagePartyAndCommunications": "Manage who can add you to a Party and communicate with you.",
+    "Heading.ChatAndPartyWithFriends": "Chat and party with friends",
+    "Description.ManagePartyAndCommunications": "Manage who can add you to a party and communicate with you.",
     "Description.PartyJoinGamesTogether": "Join games together.",
     "Description.FriendsChatTextWithFriends": "Text with friends.",
     "Title.PartyVoiceChat": "Party voice chat",
@@ -38,6 +38,11 @@ Roblox.LangDynamic["Feature.LegallySensitiveContent"] = {
     "Description.FriendsChat": "Text chat with friends. This does not impact public chatting in games.",
     "Heading.VoiceChatWithFriends": "Voice chat with friends",
     "Description.VoiceChatWithFriends": "Talk to your friends when you’re in the same Party. This does not impact public voice chatting in games.",
+    "Description.JoinGamesAndChatWithFriends": "Join games and chat with friends",
+    "Description.ParentSide.AllowYourChildToJoinGameWithFriends": "This allows your child to join a game together with friends",
+    "Description.PlayGamesTogetherWithYourFriends": "Play games together with your friends.",
+    "Description.ParentSide.AllowYourChildGamesChatWithFriends": "This allows your child to join games and/or chat with friends",
+    "Description.ParentSide.FriendsChat": "This allows your child to chat with friends",
 };
 window.Roblox &&
     window.Roblox.BundleDetector &&

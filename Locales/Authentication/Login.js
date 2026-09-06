@@ -137,8 +137,7 @@ Roblox.LangDynamic["Authentication.Login"] = {
     "Description.ParentLogoutConfirmation":
         "You’ll need to log out of your other Roblox accounts on this device before adding a new account with parent privileges",
     "Response.InvalidPasskeyCredential": 'Unable to sign in with this passkey. To regain access, go to "Forgot Password or Username."',
-    "Description.DownloadNewVersion":
-        "This version of the app is no longer available in your region. To continue playing, please download the new version of Roblox.",
+    "Description.DownloadNewVersion": "This version of Roblox isn’t available for your account. Please download the correct version to continue.",
     "Action.DownloadNow": "Download Now",
     "Url.VngDownloadNowUrl": "https://www.roblox.com",
     "Description.EnterOneTimeCodeHelpV3": "Enter the code we just sent to you / your parent's email: {email}",
@@ -177,5 +176,37 @@ Roblox.LangDynamic["Authentication.Login"] = {
     "Response.NoLoginMethods": "No sign-in methods are available for this account. Please try account recovery or contact support.",
     "Response.EnterEmailForLoginCode": "To sign in, please enter your email address instead",
     "Title.NewPlaceVersionLiveErrorReportBanner": "{placeName}: V{versionNumber} is live.",
+    "Description.LinkExpired": "The link you have clicked is no longer valid. To login, continue to Roblox and request an email one-time code.",
+    "Header.LinkExpired": "Link expired",
+    "Description.FunnelCompletionByCohort": "Completion percentage of each step by the date user first entered the funnel",
+    "Header.RequestExpired": "This request expired",
+    "Description.RequestExpiredNewRequest": "Ask your child to send a new request from their Roblox account.",
+    "Description.LinkNoLongerActive": "This request is no longer active.",
+    "Action.ContinueToRoblox": "Continue to Roblox",
+    "Description.PasskeyMobileOnly": "Passkeys are only available on mobile. Choose another way to sign in.",
+    "Label.EnterEmail": "Enter email",
+    "Action.SendCodeSentenceCase": "Send code",
+    "Header.ThisLinkExpired": "This link expired",
+    "Header.SwitchAccount": "Switch to correct account",
+    "Action.Switch": "Switch",
+    "Description.LinkExpiredSignInSettings":
+        "To continue, sign in to your Roblox account with parent privileges using an email one-time code and check pending requests in Settings > Parental controls.",
+    "Description.SwitchAccountSettings":
+        "To approve your child's request, switch to your Roblox account with parent privileges using an email one-time code and check pending requests in Settings > Parental controls.",
+    "Description.SwitchAccount": "To approve your child's request, switch to your Roblox account with parent privileges.",
+    "Description.LinkNoLongerValidSignIn":
+        "This link is no longer valid. To continue, sign in to your Roblox account with parent privileges using an email one-time code.",
+    "Description.SignOutSignIn": "Sign out of your current account, sign into your Roblox account with parent privileges using an email one-time code.",
+    "Label.EnterHere": "Enter here",
+    "Label.SelectAnAccount": "Select an account",
+    "Label.ForgotPassword": "Forgot password?",
+    "Heading.SignInWithRoblox": "Sign in with Roblox",
+    "Action.SignInWithQrCode": "Sign in with QR code",
+    "Heading.SignInAnotherWay": "Sign in another way",
+    "Label.EmailAddress": "Email address",
+    "Label.VerificationCode": "Verification code",
+    "Description.SwitchAccountEmailPreferences": "To manage your email preferences, switch to your Roblox account with parent privileges.",
+    "Description.SwitchAccountViewActivity": "To view more of your child’s activity, switch to your Roblox account with parent privileges.",
+    "Description.SwitchAccountContinue": "To continue, switch to your Roblox account with parent privileges.",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Authentication.Login");

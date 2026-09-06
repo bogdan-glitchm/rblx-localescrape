@@ -50,5 +50,14 @@ Roblox.LangDynamic["AccountIdentity.AgeCheck"] = {
     "Label.CompleteNewAgeCheckIdRequired": "Your age check isn't valid. Verify your age with an ID to access more features.",
     "Description.CompleteNewAgeCheckIdRequired": "Your age check isn't valid. Verify your age with an ID to access more features.",
     "Heading.IDReverificationRequired": "Use an ID to verify your age",
+    "Stream.Changed.Title": "We've updated your age",
+    "Stream.Mismatch.Title": "Let's check your age",
+    "Stream.Mismatch.Body": "Your app store and Roblox ages don't match. Do an age check within 7 days, or we'll update it to {proposedAgeDisplay}.",
+    "Stream.Mismatch.Completed.Title": "We checked your age",
+    "Stream.Mismatch.Completed.Body": "Your age is updated to {proposedAgeDisplay}.",
+    "Stream.Changed.Completed.Title": "We checked your age",
+    "Stream.Changed.Completed.Body": "Your age is updated to {newAgeDisplay}.",
+    "Stream.Changed.Body": "Your age is now {newAgeDisplay}, matching the app store. If that’s not right, complete an age check to correct it.",
+    "Label.AgeMismatchTitle": "Let's check your age",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_AccountIdentity.AgeCheck");

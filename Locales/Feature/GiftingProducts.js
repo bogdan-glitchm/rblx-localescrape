@@ -83,5 +83,6 @@ Roblox.LangDynamic["Feature.GiftingProducts"] = {
     "Message.Gifting.NoResultsFound": "No results found",
     "Message.Gifting.GiftingProductsLegalDisclosure.DMCCA":
         "Robux is provided to you by Roblox. When you buy Robux you receive only a limited, non-refundable, non-transferable, revocable license to use Robux, which has no value in real currency. By proceeding, (1) you agree that you are over 18 and that you authorize us to charge your account, and (2) you represent that you understand and agree to the {termsLinkStart}Terms of Use{termsLinkEnd}, which includes an agreement to arbitrate any dispute between you and Roblox, and {privacyLinkStart}Privacy Policy{privacyLinkEnd}.",
+    "Message.Gifting.BackToParentalControls": "Back to Parental Controls",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.GiftingProducts");

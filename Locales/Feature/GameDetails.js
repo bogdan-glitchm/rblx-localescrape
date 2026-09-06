@@ -37,6 +37,7 @@ Roblox.LangDynamic["Feature.GameDetails"] = {
     "Label.Favorites": "Favorites",
     "Label.ExperimentalWarning":
         "{aTagStartWithHref}{ExperimentalGamesInfoLink}{hrefEnd}This experience may not function as intended.{aTagEnd} The developer needs to update the experience.",
+    "Action.Report": "Report",
     "Action.Continue": "Continue",
     "Label.GenreAll": "All",
     "Label.GenreBuilding": "Building",
@@ -132,5 +133,13 @@ Roblox.LangDynamic["Feature.GameDetails"] = {
     "Label.IgrsImageAltText": "IGRS Rating Image",
     "Label.DefaultGameImageAltText": "Promotional image #{imageNum} for {placeName}",
     "Label.Badges": "Badges",
+    "CommunitySection.ViewCommunity": "View the Community",
+    "CommunitySection.Join": "Join",
+    "CommunitySection.View": "View",
+    "CommunitySection.Description": "Join the official community for exclusive sneak peeks and early updates!",
+    "CommunitySection.Members": "Members",
+    "CommunitySection.Member": "Member",
+    "Action.RemoveFromFavorites": "Remove from Favorites",
+    "Message.RemovedFromFavorites": "Removed from Favorites",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.GameDetails");

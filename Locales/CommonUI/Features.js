@@ -109,11 +109,11 @@ Roblox.LangDynamic["CommonUI.Features"] = {
     "Label.AddConnections": "Add Connections",
     "Label.AddConnection": "Add Connection",
     "Label.AcceptConnection": "Accept Connection",
-    "Label.RemoveConnection": "Remove Connection",
+    "Label.RemoveConnection": "Remove Friend",
     "Label.InviteConnections": "Invite Connections",
     "Label.JoinConnections": "Join Connections",
     "Label.Connection": "Connection",
-    "Label.Connect": "Connect",
+    "Label.Connect": "Friends",
     "Label.Sitemap": "Sitemap",
     "Label.CreateAccount": "Create account",
     "Label.X": "Roblox Plus",
@@ -133,5 +133,6 @@ Roblox.LangDynamic["CommonUI.Features"] = {
     "Label.sSettings": "Settings",
     "Label.sSettingsNotifications": "Settings: {notificationCount}",
     "Actions.GetPlus": "Get Plus",
+    "Label.Newsroom": "Newsroom",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_CommonUI.Features");

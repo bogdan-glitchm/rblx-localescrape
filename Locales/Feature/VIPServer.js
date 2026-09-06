@@ -156,5 +156,6 @@ Roblox.LangDynamic["Feature.VIPServer"] = {
     "Label.ChangeFriendsAllowedError.FriendsRename": "Unable to change friends allowed.",
     "Label.ChangeFriendsAllowedSuccess.FriendsRename": "Successfully changed friends allowed.",
     "Label.FriendsAllowed.FriendsRename": "Friends Allowed",
+    "Label.EditServerName": "Edit server name",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.VIPServer");

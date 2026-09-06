@@ -145,9 +145,9 @@ Roblox.LangDynamic["Feature.Chat"] = {
     "Label.Group.ThemRepliedToOther": "{DISPLAY_NAME_1} replied to {DISPLAY_NAME_2}",
     "Label.Group.ThemRepliedToThem": "{DISPLAY_NAME} replied to themself",
     "Label.Group.ThemRepliedToYou": "{DISPLAY_NAME} replied to you",
-    "Message.ChatUnavailableRegion": "At this time Chat is not available in your region.",
+    "Message.ChatUnavailableRegion": "At this time chat is not available in your region.",
     "Message.RobloxConnectUnavailableRegion": "At this time Roblox Connect is not available in your region.",
-    "Message.ChatUnavailableWithUser": "At this time, Chat is not available with this user.",
+    "Message.ChatUnavailableWithUser": "At this time, chat is not available with this user.",
     RobloxConnectUnavailableWithUser: "At this time, Roblox Connect is not available with this user.",
     "Toast.Error.InvalidUserSelected": "One or more people in this list can’t be added",
     "Label.ChatDisabled": "Chat Disabled",
@@ -187,5 +187,10 @@ Roblox.LangDynamic["Feature.Chat"] = {
     "Label.TimestampOneWeekAbbreviated": "1w",
     "Description.OSAGroupDescriptionWithLinker":
         "Your safety matters. You can block or report a person anytime from their profile. <a href='{osaViewDetailsUrl}'>View details.</a>",
+    "Description.InlineContextCardDescription":
+        "Be careful when you chat with strangers. Don't share personal info or move to another chat app. You can block or report anyone from their profile.",
+    "Heading.SafeChattingWithUsername": "Be safe chatting with {displayName}",
+    "Heading.SafeChattingWithThisUser": "Be safe chatting with this person",
+    "Label.UnfilteredChat": "Unfiltered chat",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.Chat");

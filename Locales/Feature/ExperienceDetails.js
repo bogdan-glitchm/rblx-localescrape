@@ -48,5 +48,14 @@ Roblox.LangDynamic["Feature.ExperienceDetails"] = {
     "UnplayableError.ContextualPlayabilityRequireParentApproval": "Ask your parent to unlock this game for you.",
     "PlayButtonText.PlayDemo": "Play Demo",
     "PlayButtonText.Play": "Play",
+    "UnplayableError.CreatorHasntMadeAvailable": "The creator hasn’t made this game available for you",
+    "UnplayableError.Moderated": "This game is no longer playable",
+    "UnplayableError.FiatPurchaseDeviceRestricted": "This experience is not purchasable on this device",
+    "UnplayableError.CreatorHasntPublished": "The creator hasn't published this game",
+    "CommunitySection.EmptyDescription": "Join the official community for exclusive sneak peeks and early updates!",
+    "Label.MadeByCreator": "Made by {creatorName}",
+    "Label.MadeByCreatorWithBuild": "Made by {creatorName} with Build",
+    "Description.MadeWithBuild": "Build games are AI generated",
+    "Label.MadeByVerifiedCreatorWithBuild": "Made by {creatorName} with Build",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.ExperienceDetails");
