@@ -45,5 +45,8 @@ Roblox.LangDynamic["Feature.SponsoredPages"] = {
     "Description.April2026Promo": "Get the Dazzling Disguise and bonus Loose-Leaf Noob",
     "Description.May2026Promo": "Get the HazardTech Spider Rig and bonus HazardTech Helm Bot",
     "Description.June2026Promo": "Get the Soccer Ball Chain and bonus Goalkeeper's Hat Trick",
+    "Description.July2026Promo": "Get the Ice Wyrm's Wings and bonus Ice Wyrm's Helm",
+    "Description.Aug2026Promo": "Get the Lost Diver's Helm and bonus Eel Wrap",
+    "Description.September2026Promo": "Get the Icarus Wings and bonus Medusa Snakes",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.SponsoredPages");

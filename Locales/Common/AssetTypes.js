@@ -107,5 +107,6 @@ Roblox.LangDynamic["Common.AssetTypes"] = {
     "Label.Avatars": "Avatars",
     "Label.Avatar": "Avatar",
     "Label.Outfit": "Outfit",
+    "Label.AvatarBackground": "Backgrounds",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Common.AssetTypes");

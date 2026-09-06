@@ -26,7 +26,8 @@ const Assets = {
                         hour12: true,
                         timeZone: 'UTC'
                     })
-                }
+                },
+                iso: now.toISOString()
             }
         }
     }
@@ -38,5 +39,6 @@ let newReadme = Assets.templates.readme;
 newReadme = newReadme.replaceAll("{{stats.nofiles}}", Assets.variables.stats.nofiles);
 newReadme = newReadme.replaceAll("{{meta.lastedited.date.mmddyyyy}}", Assets.variables.meta.lastedited.date.mmddyyyy);
 newReadme = newReadme.replaceAll("{{meta.lastedited.time.f12h}}", Assets.variables.meta.lastedited.time.f12h);
+newReadme = newReadme.replaceAll("{{meta.lastedited.iso}}", Assets.variables.meta.lastedited.iso);
 
 fs.writeFileSync(path.join(root, 'README.md'), newReadme);

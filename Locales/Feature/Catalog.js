@@ -348,7 +348,7 @@ Roblox.LangDynamic["Feature.Catalog"] = {
     "Label.InExperiencePurchaseOnly": "The original sale of this item is only available in experience.",
     "Label.QuantityLeft": "Quantity Left: {remaining}/{total}",
     "Label.QuantityLimitReached": "The creator has limits on how many copies a single user can purchase from them.",
-    "Label.PremiumForResell": "Premium is required for reselling",
+    "Label.PremiumForResell": "Roblox Plus is required for reselling",
     "Message.NoHoldingPolicy":
         "This item does not require a holding period, you can resell it as soon as you purchase it. Only premium users can resell items.",
     "Message.QuantityLimitReached": "Whoops! The creator has limits on how many copies a single user can purchase from them.",
@@ -527,5 +527,15 @@ Roblox.LangDynamic["Feature.Catalog"] = {
     "Title.RentalFtuxText": "Rent to try an item out for 3 days",
     "Label.OfferApplied": "Offer Applied",
     "Text.OfferAppliedToHighestItem": "Offer applied to highest item",
+    "Feature.Catalog.Label.AvatarBackgrounds": "Backgrounds",
+    "Label.Attributes": "Attributes",
+    "Label.AdvancedMaterials": "Advanced Materials",
+    "Label.Emissive": "Emissive",
+    "Label.ParticleEffects": "Particle Effects",
+    "Label.EmissiveInfo": "Emissive item glows and gives off its own light, so it stays bright and visible even in dark environments.",
+    "Label.ParticleEffectsInfo": "An item with particle effects gives off animated visuals, making it feel dynamic and alive.",
+    "Action.Owned": "{count} owned",
+    "Action.Try": "Try",
+    "Message.SellingBelowAveragePrice": "This price is well below the recent average price of {averagePrice} Robux. Double-check the amount before you sell.",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.Catalog");

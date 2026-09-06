@@ -19,5 +19,8 @@ Roblox.LangDynamic["Feature.GameBadges"] = {
     "Label.Earned": "Earned",
     "Label.Updated": "Updated",
     "Label.Experience": "Experience",
+    "Action.Share": "Share",
+    "Action.Report": "Report",
+    "Action.RemoveBadge": "Remove from inventory",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.GameBadges");

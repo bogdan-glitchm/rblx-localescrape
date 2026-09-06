@@ -16,5 +16,8 @@ Roblox.LangDynamic["Amp.FAEUpsell"] = {
     "Label.ScanQRCodeToAgeCheck": "Scan this QR code with your phone or tablet camera to complete an age check",
     "Label.NotScanning": "Not scanning?",
     "Label.DownloadAppFallback": "Download the Roblox app on your mobile device and go to Settings > Account Info",
+    "Heading.VerifyIdOnMobileApp": "Verify your birthday with the mobile app",
+    "Label.ScanQRCodeToVerifyId": "Unlock more games and features when you verify your birthday. Scan this QR code with your phone or tablet.",
+    "Label.IdvBenefit": "Unlock more games and features when you verify your birthday.",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Amp.FAEUpsell");

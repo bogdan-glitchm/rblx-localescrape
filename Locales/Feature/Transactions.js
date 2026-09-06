@@ -179,5 +179,12 @@ Roblox.LangDynamic["Feature.Transactions"] = {
     "Tooltip.O18OneTimePayoutCombinedRateIntro": "This transaction combines US 18+ and standard rates.",
     "Tooltip.O18OneTimePayoutCombinedRateO18Amount": "US 18+ rate: {robuxAmount} Robux",
     "Tooltip.O18OneTimePayoutCombinedRateStandardAmount": "Standard rate: {robuxAmount} Robux",
+    "Label.PrivateServerEngagementPayouts": "Private Server Engagement Payouts",
+    "Description.AccessThroughCreatorHub": "You can now access your creator transactions on Creator Hub.",
+    "Description.GoToCreatorHubTransactions": "Go to {linkStart}Creator Hub Transactions{linkEnd}",
+    "Label.TransactionTypeCreatorRewards": "Creator Rewards",
+    "Label.ReferralPayouts": "Referral Payouts",
+    "Description.ReferralPayout": "Plus Referral Payout",
+    "Description.PendingRobuxReferralPayout": "These Robux are pending and will be released in 21 days.",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.Transactions");

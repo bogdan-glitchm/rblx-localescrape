@@ -148,5 +148,6 @@ Roblox.LangDynamic["Purchasing.PurchaseDialog"] = {
     "Label.Total": "Total",
     "Description.SavingRobux": "Saving {robuxAmount} Robux",
     "Label.PlusBenefitDiscount": "Plus benefit ({discountPercent}% off)",
+    "Message.PendingDeveloperProductOnHome": "Join to redeem your purchase",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Purchasing.PurchaseDialog");

@@ -139,5 +139,7 @@ Roblox.LangDynamic["Feature.Subscription"] = {
     "Email.SemiannuallyLabel": "semiannually",
     "Label.Subscriptions.PerThreeMonths": "/3 months",
     "Label.Subscriptions.PerSixMonths": "/6 months",
+    "Email.EveryNMonthsLabel": "every {monthCount} months",
+    "Email.PriceEveryNMonthsLabel": "{purchasePrice} every {monthCount} months",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.Subscription");

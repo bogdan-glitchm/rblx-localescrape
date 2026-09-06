@@ -93,6 +93,14 @@ Roblox.LangDynamic["Authentication.SignUp"] = {
     "Label.PhoneNumber": "Phone Number",
     "Label.SignUpWith": "or sign up with",
     "Response.BadUsernameForWeChat": "Username is not appropriate",
+    "Label.UsernameError1": "Contains only letters, numbers, and _",
+    "Label.UsernameError2": "Is between 3 and 20 characters long",
+    "Label.UsernameError3": "Is not already in use",
+    "Label.UsernameError5": "Does not start or end with _",
+    "Label.PasswordError1": "Is at least 8 characters long",
+    "Label.PasswordError2": "Does not match username",
+    "Label.PasswordError3": "Is not a simple password",
+    "Heading.PasswordPage": "Create a password",
     "Heading.SelectStartingAvatar": "Select a Starting Character",
     "Label.EmailAddress": "Email Address",
     "Action.LinkAccount": "Link Account",
@@ -190,6 +198,7 @@ Roblox.LangDynamic["Authentication.SignUp"] = {
     "Label.NewPasswordError3": "It should not be a simple password",
     "Description.RobloxNotAvailableInRegion": "Roblox is temporarily unavailable in your region.",
     "Header.CreatePasskey": "Hey {username}, create a passkey",
+    "Header.PleaseTryAgain": "Please Try Again",
     "Description.SelectBirthdateExpT1":
         "Start by entering your birthday. Later, to confirm you’re an adult, you’ll need to verify this birthday with a government ID, credit card, or by camera depending on your region.",
     "Description.VerificationLinkingText.VariableButtonName":
@@ -266,5 +275,23 @@ Roblox.LangDynamic["Authentication.SignUp"] = {
     "Action.SetupLater": "Setup later",
     "Label.EnterEmailForOTPO13": "Enter your email to sign in with a one-time passcode",
     "Label.EnterEmailForOTPU13": "Enter your parent’s email to sign in with a one-time passcode and support account recovery",
+    "Action.Download": "Download",
+    "Header.PageTitle": "One platform.{lineBreak}Millions of games.",
+    "Description.PageHeaderDescription": "Play immersive games, watch interactive clips, chat with friends, and build worlds of your own.",
+    "Title.GamesToGetYouStarted": "Games to get you started",
+    "Action.Create": "Create",
+    "Description.SignUpAgreement.CreateAnAccount":
+        "By creating an account, you agree to our {startTermsTag}Terms{endTermsTag}, including arbitration, and acknowledge our {startPrivacyTag}Privacy Policy{endPrivacyTag}. If you’re under 18, your parent or guardian must permit your account and agree to our Terms.",
+    "Label.EmailOptional.Short": "Email (optional)",
+    "Description.ChooseHowYouSignIn": "Choose how you sign in to Roblox",
+    "Action.CreatePassword": "Create password",
+    "Label.PasswordError3.V2": "Isn't a simple password",
+    "Label.PasswordError2.V2": "Doesn't match username",
+    "Description.EmailHint": "Enter date",
+    "Description.BirthdayHint": "Enter date",
+    "Heading.PlayCreateConnect": "Play, create, and connect with millions of players.",
+    "Label.AddPassword": "Add password",
+    "Description.CreateAccountAgreement":
+        "By creating an account, you agree to our Terms, including arbitration, and acknowledge our Privacy Policy. If you’re under 18, your parent or guardian must permit your account and agree to our Terms.",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Authentication.SignUp");

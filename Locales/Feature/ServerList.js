@@ -51,5 +51,10 @@ Roblox.LangDynamic["Feature.ServerList"] = {
     "Title.SubscribeToServer": "Subscribe to server",
     "Description.PrivateServerSheetSubscriptionLegal":
         'By clicking "Subscribe", you agree to the {linkStart}Roblox Subscription Terms{linkEnd}. You will be automatically charged each month until you cancel.',
+    "Label.SortBy": "Sort By",
+    "Label.RecommendedForYou": "Recommended For You",
+    "Label.BestLatency": "Best Connection (Ping)",
+    "Label.OccupancyDescending": "Most Players",
+    "Label.OccupancyAscending": "Fewest Players",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.ServerList");

@@ -21,5 +21,8 @@ Roblox.LangDynamic["Feature.DownloadLanding"] = {
     "Description.DownloadPage": "Download the Roblox app to use Roblox on your smartphone, tablet, computer, console, VR headset, and more.",
     "Label.RobloxExciteToDownload": "Download Roblox to play millions of experiences!",
     "Action.Download": "Download",
+    "Heading.GetTheRobloxApp": "Get the Roblox app",
+    "Description.PlayExploreBuildAndMore": "Play, explore, build, and more",
+    "Action.GetTheApp": "Get the app",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.DownloadLanding");

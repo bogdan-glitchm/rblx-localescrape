@@ -58,5 +58,11 @@ Roblox.LangDynamic["Authentication.AccountSwitch"] = {
     "Description.AlwaysContinueAs": "Always continue with the selected account and add it to the account switcher.",
     "Description.ContinuingWith": "Continuing with {username} will sign you out of all other accounts.",
     "Description.HaveUpToAccountLimit": "You can have up to {limit} accounts. Remove one to make space for the selected account.",
+    "Header.SignOutToContinue": "Sign out to continue",
+    "Description.SignOutToCreateAccount": "You can’t create a new account while signed into this account. Sign out to continue creating your account.",
+    "Description.SignOutToLogIn": "You can’t log into another account while signed into this account. Sign out to continue logging in.",
+    "Action.SignOut": "Sign out",
+    "Action.BackToHome": "Back to home",
+    "Description.ContinueSignOutOthersGeneric": "Continuing will sign you out of your other accounts.",
 };
 window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Authentication.AccountSwitch");
